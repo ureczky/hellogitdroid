@@ -7,7 +7,7 @@ import android.view.Menu;
 
 public class MainActivity extends Activity {
     
-    private int conflict2 = 0;
+    private int conflict2 = 1;
 
 	private String conflict;
 	
