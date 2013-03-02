@@ -9,6 +9,8 @@ public class MainActivity extends Activity {
     
     private int conflict2 = 0;
 
+	private String conflict;
+	
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
